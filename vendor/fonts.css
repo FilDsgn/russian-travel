@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Iner";
+  src: local("Iner Regular"),
+  local("Iner-Regular"),
+  url(../../fonts/Inter/Inter-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Iner";
+  src: local("Iner Bold"),
+  local("Iner-Bold"),
+  url(../../fonts/Inter/Inter-Bold.ttf);
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Iner";
+  src: local("Iner Black"),
+  local("Iner-Black"),
+  url(../../fonts/Inter/Inter-Black.ttf);
+  font-weight: 900;
+}

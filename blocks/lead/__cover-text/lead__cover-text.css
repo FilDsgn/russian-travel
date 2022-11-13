@@ -6,3 +6,15 @@
   margin-top: 8px;
   display: inline-block;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__cover-text {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__cover-text {
+    padding-left: 16px;
+  }
+}

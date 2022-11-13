@@ -9,3 +9,9 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 450px) {
+  .header__lang-links {
+    font-size: 18px;
+  }
+}
