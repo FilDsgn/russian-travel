@@ -7,3 +7,15 @@
   margin: 0 auto;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+  .content {
+    row-gap: 88px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content {
+    row-gap: 64px;
+  }
+}
