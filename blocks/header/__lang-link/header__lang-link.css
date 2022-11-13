@@ -2,8 +2,3 @@
   text-decoration: none;
   color: #fff;
 }
-
-.header__lang-link:hover {
-  text-decoration: underline;
-  text-underline-position: under;
-}

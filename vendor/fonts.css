@@ -1,23 +1,23 @@
 @font-face {
-  font-family: "Iner";
-  src: local("Iner Regular"),
-  local("Iner-Regular"),
-  url(../../fonts/Inter/Inter-Regular.ttf);
+  font-family: "Inter";
+  src: local("Inter Regular"),
+  local("Inter-Regular"),
+  url(./fonts/Inter-Regular.woff);
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Iner";
-  src: local("Iner Bold"),
-  local("Iner-Bold"),
-  url(../../fonts/Inter/Inter-Bold.ttf);
+  font-family: "Inter";
+  src: local("Inter Bold"),
+  local("Inter-Bold"),
+  url(./fonts/Inter-Bold.woff);
   font-weight: 700;
 }
 
 @font-face {
-  font-family: "Iner";
-  src: local("Iner Black"),
-  local("Iner-Black"),
-  url(../../fonts/Inter/Inter-Black.ttf);
+  font-family: "Inter";
+  src: local("Inter Black"),
+  local("Inter-Black"),
+  url(./fonts/Inter-Black.woff);
   font-weight: 900;
 }
