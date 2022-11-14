@@ -29,7 +29,7 @@
 
 ### Website
 
-[Ссылка на Сайт](fildsgn.github.io/russian-travel/)
+[Ссылка на Сайт](https://fildsgn.github.io/russian-travel/)
 
 ### Figma
 
